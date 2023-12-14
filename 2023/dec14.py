@@ -8,4 +8,4 @@ for i in range(0, len(lines) - 1):
     pos = int(len(next) / 2)
     inner = int(next[pos])
     if inner != outer:
-        print(i)
+        print(i+1)
