@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kodkalendern
+  annotations:
+    github.com/project-slug: ssarne/kodkalendern
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ssarne
